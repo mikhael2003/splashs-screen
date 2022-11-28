@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.if3b.splash_screen'
+    namespace 'com.if3b.splashscreen'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.if3b.splash_screen"
+        applicationId "com.if3b.splashscreen"
         minSdk 21
         targetSdk 32
         versionCode 1
